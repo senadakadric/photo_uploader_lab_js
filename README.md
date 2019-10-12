@@ -64,7 +64,7 @@ body:
 ```
 * For examples, refer to the [documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#Supplying_request_options).
 
-###Sample Photo Data
+### Sample Photo Data
 ```
 {
     "name": "Sample 1",
