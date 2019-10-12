@@ -65,6 +65,7 @@ body:
 * For examples, refer to the [documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#Supplying_request_options).
 
 ###Sample Photo Data
+```
 {
     "name": "Sample 1",
     "photo_image_url": "https://uc30c8a0afd0a0a9d15ade47f26a.previews.dropboxusercontent.com/p/thumb/AAll56msw8YL1sz4N87Ja0LSX6BpNXfp0RLm-k5SUOKHDV2TIGOxy0MImb4KwUAcsAVk5k3mx6vNcsr2cFRMXsEZsU1pwLC1-gMRUnr0PuwRREl7iHqW17sRmudqiKSpl-vTzIE2CfZw7SsIXFhit-DnsONlA0_JFAR2SrIyMkQzLoMTDO_FXzB-IrUnKGvmA866bT0zt4vqdeXkycpVrtIW8LhiQsSwgaOdNVeuadCBUXA04bC2revhNiOKl1HmORXheGsHNtsyBrg5ZlA2JSZIbNbJnOHsGRZmJXSPd9TDEiIRCOOlEwozWUiEPtk4gfBzrDOqvBSz71UmmmSVGDNyhgzlmmEyXNPFpxR7wWRcdg/p.jpeg?fv_content=true&size_mode=5",
@@ -75,6 +76,7 @@ body:
     "photo_image_url": "https://cdn-images-1.medium.com/max/1200/1*yGtxOVUsngf8nnlH_-0idw@2x.jpeg",
     "owner": "Leizl"
 }
+```
 
 ## Remove Photo 
 
